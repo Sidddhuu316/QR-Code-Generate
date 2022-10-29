@@ -1,5 +1,9 @@
 # QR-Code-Generate
 
+# Demo-Website
+
+🌐https://sidddhuu316.github.io/QR-Code-Generate/
+
 # Snapshort
 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/106863450/198842117-b7759e94-2217-4d90-8bc0-0f45b054c4e3.png">
